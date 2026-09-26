@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large files and datasets
+*.zip
+*.tar.gz
+*.csv
+*.dat
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
