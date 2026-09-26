@@ -1,0 +1,2 @@
+experiment_id,date,hypothesis,component_changed,baseline_configuration,new_configuration,validation_f0_5,precision,recall,f1,blocking_recall,candidate_count,runtime,result,notes
+EXP_001,2026-09-25,Execute baseline,None,V1,V2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,INVALID,No dataset available for execution.

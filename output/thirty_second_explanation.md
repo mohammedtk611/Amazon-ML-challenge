@@ -1,0 +1,2 @@
+# 30-Second Explanation
+I built an end-to-end Entity Resolution pipeline. It leverages multi-key structural blocking to generate scalable candidate pairs, computes pairwise text similarity features, and scores them using a LightGBM classifier. The threshold is heavily biased toward precision to optimize the F0.5 challenge metric, outputting perfectly formatted TSV mappings.

@@ -1,0 +1,12 @@
+{
+    "version": "v1",
+    "status": "prepared",
+    "model": "LightGBM",
+    "threshold": "N/A",
+    "validation_f0_5": "N/A (Pending Data)",
+    "validation_precision": "N/A (Pending Data)",
+    "validation_recall": "N/A (Pending Data)",
+    "candidate_recall": "N/A (Pending Data)",
+    "created_at": "2026-09-25T23:33:30.082338",
+    "notes": "Baseline final system"
+}
